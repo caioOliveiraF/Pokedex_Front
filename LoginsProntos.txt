@@ -1,0 +1,20 @@
+nomes{
+Ash ketchun
+Red
+Leaf
+Ethan
+Lyra
+Brandom
+May
+Lucas
+Hikari
+Hilbert
+Hilda
+Nate
+Rosa
+Calem
+Serena
+Caio
+}
+
+senha = 12345678
